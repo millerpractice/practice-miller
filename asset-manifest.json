@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/practice-miller/static/css/main.d1b05096.chunk.css",
+    "main.js": "/practice-miller/static/js/main.a41f9376.chunk.js",
+    "main.js.map": "/practice-miller/static/js/main.a41f9376.chunk.js.map",
+    "runtime-main.js": "/practice-miller/static/js/runtime-main.d6c0ca56.js",
+    "runtime-main.js.map": "/practice-miller/static/js/runtime-main.d6c0ca56.js.map",
+    "static/js/2.e9951410.chunk.js": "/practice-miller/static/js/2.e9951410.chunk.js",
+    "static/js/2.e9951410.chunk.js.map": "/practice-miller/static/js/2.e9951410.chunk.js.map",
+    "index.html": "/practice-miller/index.html",
+    "precache-manifest.49ddec92dd49b8028f25304a190b0a8e.js": "/practice-miller/precache-manifest.49ddec92dd49b8028f25304a190b0a8e.js",
+    "service-worker.js": "/practice-miller/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/practice-miller/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e9951410.chunk.js.LICENSE": "/practice-miller/static/js/2.e9951410.chunk.js.LICENSE",
+    "static/media/arzt.png": "/practice-miller/static/media/arzt.de578f1b.png",
+    "static/media/doctor comp.png": "/practice-miller/static/media/doctor comp.657ddffa.png",
+    "static/media/healthcare.png": "/practice-miller/static/media/healthcare.3f35d139.png",
+    "static/media/kai.png": "/practice-miller/static/media/kai.0f2ddd84.png",
+    "static/media/logo.png": "/practice-miller/static/media/logo.69272775.png",
+    "static/media/map.PNG": "/practice-miller/static/media/map.b34c85bd.PNG",
+    "static/media/office.jpg": "/practice-miller/static/media/office.9c84c66c.jpg",
+    "static/media/welcome.jpg": "/practice-miller/static/media/welcome.ed2c3c75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6c0ca56.js",
+    "static/js/2.e9951410.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a41f9376.chunk.js"
+  ]
+}
