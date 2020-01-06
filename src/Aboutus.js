@@ -31,7 +31,7 @@ export default class Aboutus extends Component {
  </Typography>
                 <Typography style={{ color: "white", fontSize: 17, textAlign: "left", marginTop:60, marginLeft:90, fontWeight:500, marginRight:90 }}>
                     Your health matters! That’s why we only offer you high quality 
-                    medical care. Our qualified medical AI-assistant Kaira assists 
+                    medical care. Our qualified medical AI-assistant Kai assists 
                     Dr. Miller in the diagnostic and decision making process and makes 
                     recommendations based on findings.
 </Typography>
