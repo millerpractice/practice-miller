@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b297f0f9fd80cbb98bf5f33bfa65fdd",
+    "revision": "796498d224980dfed774c986b38a984d",
     "url": "/practice-miller/index.html"
   },
   {
-    "revision": "b9da6f9b3be34517b12f",
+    "revision": "e22c9e15d3ddaf51ef60",
     "url": "/practice-miller/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "d432e18d3b35b617e964",
-    "url": "/practice-miller/static/js/2.0591af19.chunk.js"
+    "revision": "59519117575bd08fee32",
+    "url": "/practice-miller/static/js/2.089d28c3.chunk.js"
   },
   {
     "revision": "a0560e08c2bea09cecbe463a56dcf52b",
-    "url": "/practice-miller/static/js/2.0591af19.chunk.js.LICENSE"
+    "url": "/practice-miller/static/js/2.089d28c3.chunk.js.LICENSE"
   },
   {
-    "revision": "b9da6f9b3be34517b12f",
-    "url": "/practice-miller/static/js/main.68d3f451.chunk.js"
+    "revision": "e22c9e15d3ddaf51ef60",
+    "url": "/practice-miller/static/js/main.efc42c95.chunk.js"
   },
   {
     "revision": "c49e10e8b16acfa0585c",
     "url": "/practice-miller/static/js/runtime-main.d6c0ca56.js"
+  },
+  {
+    "revision": "5ee52bc4994dc81b4a31a793057949ed",
+    "url": "/practice-miller/static/media/desktop150.5ee52bc4.png"
+  },
+  {
+    "revision": "4cd8510bfbe547990dfdfedfa647ca3b",
+    "url": "/practice-miller/static/media/desktop200.4cd8510b.png"
   },
   {
     "revision": "79caf77128139468229ab73b408158b2",
